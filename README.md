@@ -12,3 +12,6 @@ Requests
 3. Execute o arquivo: python main.py
 
 ⚠️ Aviso: Este projeto foi feito apenas para fins educacionais em um site de sandbox (teste).
+
+📚 Referências
+Este projeto foi inspirado no tutorial de "Web Scraping with Python - Beautiful Soup Crash Course" de freeCodeCamp. Adaptei a lógica para obter dados de livros em vez de vagas de trabalho.
